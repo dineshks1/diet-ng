@@ -1,5 +1,8 @@
 language: d
 dist: xenial
+arch:
+ - amd64
+ - ppc64le
 
 branches:
   only:
